@@ -1,4 +1,4 @@
-   Mohammad Umar Sayed Personal Page th {text-align: center;}
+
 
 Mohammad Umar Sayed
 ===================
